@@ -10,6 +10,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 # HDX
 A Minetest Texture Pack from Vanessa Dannenberg
 https://gitlab.com/VanessaE/
+https://forum.luanti.org/viewtopic.php?t=1583
 
 
 # Polygonia_512px
