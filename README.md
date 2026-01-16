@@ -17,4 +17,3 @@ https://forum.luanti.org/viewtopic.php?t=1583
 Both texture packs overlaps, but they also cover different things.
 This is a mix of both pack to get the best of both to be used with Luanti, and a decent graphic card such as Nvidia 2070.
 
-
